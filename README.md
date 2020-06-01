@@ -3,4 +3,4 @@ Assignment Links:
 Mockup illustrations are present in the Assignment documents.
 
 Here are my Solution Links: 
-MODULE 2 SOLUTION (http://shorturl.at/GJSZ1), other (http://shorturl.at/dlrL8)
+MODULE 2 SOLUTION (http://shorturl.at/GJSZ1)
