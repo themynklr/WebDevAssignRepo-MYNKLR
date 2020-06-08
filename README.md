@@ -3,4 +3,4 @@ Assignment Links:
 Mockup illustrations are present in the Assignment documents.
 
 Here are my Solution Links: 
-- [Module 2 Sollution] (https://themynklr.github.io/WebDevAssignRepo-MYNKLR/module-3-solution.html)
+- [Module 2 Sollution] (https://themynklr.github.io/WebDevAssignRepo-MYNKLR/module-2-solution/index.html)
